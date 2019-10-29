@@ -1,0 +1,10 @@
+body {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 20px;
+    display: flex;
+    cursor: default;
+}
+
+h2 {
+    font-size: 30px;
+}
